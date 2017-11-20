@@ -1,4 +1,4 @@
-# twix #
+![](resources/twix_banner.png)
 
 ### Intro ###
 Simple project that extracts user tweets to csv / json <br>
